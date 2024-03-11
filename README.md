@@ -1,1 +1,47 @@
-# AI-Macros-in-PowerPoint
+# PowerPoint Chatbot with Image Drawing
+
+PowerPoint Chatbot is a VBA macro-enabled PowerPoint presentation that integrates with OpenAI's API to create a chatbot and draw images based on user prompts using Stable Diffusion API.
+
+## Features
+
+- Seamless integration with OpenAI's Chat API for interactive conversations.
+- Image drawing capabilities using Stable Diffusion API based on user prompts.
+- Easy-to-use VBA macros for adding functionality to PowerPoint presentations.
+
+## Usage
+
+To use the PowerPoint Chatbot:
+
+1. Download the PowerPoint (.pptm) file from the repository.
+2. Open the PowerPoint file in Microsoft PowerPoint.
+3. Enable macros if prompted.
+4. Start a slideshow and interact with the chatbot using the provided text box.
+
+## Installation
+
+There is no separate installation required. Simply download the PowerPoint file and run it with Microsoft PowerPoint.
+
+## Dependencies
+
+- Microsoft PowerPoint (for running the .pptm file)
+- Stable Diffusion API (for image drawing functionality)
+- OpenAI API (for chatbot functionality)
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/my-feature`).
+3. Make your changes and commit them (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature/my-feature`).
+5. Create a new Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Credits
+
+Developed by Halil Emre Yildiz ([GitHub](https://github.com/JahnStar))
+
