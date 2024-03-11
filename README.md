@@ -14,7 +14,7 @@ To use the PowerPoint Chatbot:
 
 1. Download the PowerPoint (.pptm) file from the repository.
 2. Open the PowerPoint file in Microsoft PowerPoint.
-3. Enable macros if prompted.
+3. Enable macros and activeX if prompted.
 4. Start a slideshow and interact with the chatbot using the provided text box.
 
 ## Installation
@@ -39,7 +39,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the CC-BY-4.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## Credits
 
