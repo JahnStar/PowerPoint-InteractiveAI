@@ -1,4 +1,4 @@
-# PowerPoint Chatbot with Image Drawing
+# PowerPoint Chatbot with Image Generation
 
 PowerPoint Chatbot is a VBA macro-enabled PowerPoint presentation that integrates with OpenAI's API to create a chatbot and draw images based on user prompts using Stable Diffusion API.
 
@@ -26,6 +26,10 @@ There is no separate installation required. Simply download the PowerPoint file 
 - Microsoft PowerPoint (for running the .pptm file)
 - Stable Diffusion API (for image drawing functionality)
 - OpenAI API (for chatbot functionality)
+
+## Demo Video
+[![Watch the video](JAHNVIS_v1_preview.png?raw=true)](https://youtu.be/P0Z648IYQIE)
+Click on the image above to watch the demo video.
 
 ## Contributing
 
