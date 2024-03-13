@@ -20,6 +20,7 @@ To use the PowerPoint Chatbot:
 ## Installation
 
 There is no separate installation required. Simply download the PowerPoint file and run it with Microsoft PowerPoint.
+One crucial step to follow is to replace the API keys within the DataModule macro with your own.
 
 ## Dependencies
 
